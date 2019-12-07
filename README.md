@@ -1,16 +1,10 @@
 # shop_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ibb.co/QvJCzfk"><img src="https://i.ibb.co/nMwnZbB/Screenshot-1575743123.png" alt="Screenshot-1575743123" border="0"></a>
+<a href="https://ibb.co/BGFNKsf"><img src="https://i.ibb.co/jzsRZ48/Screenshot-1575743160.png" alt="Screenshot-1575743160" border="0"></a>
+<a href="https://ibb.co/PcMTmjd"><img src="https://i.ibb.co/482smtH/Screenshot-1575743165.png" alt="Screenshot-1575743165" border="0"></a>
+<a href="https://ibb.co/xMMzPQj"><img src="https://i.ibb.co/555stV8/Screenshot-1575743175.png" alt="Screenshot-1575743175" border="0"></a>
+<a href="https://ibb.co/kBk26wY"><img src="https://i.ibb.co/XLNxkKm/Screenshot-1575743188.png" alt="Screenshot-1575743188" border="0"></a>
+<a href="https://ibb.co/0sqJsB5"><img src="https://i.ibb.co/sWj3W57/Screenshot-1575743201.png" alt="Screenshot-1575743201" border="0"></a>
+<a href="https://ibb.co/hMQmy5m"><img src="https://i.ibb.co/dcC5r95/Screenshot-1575743206.png" alt="Screenshot-1575743206" border="0"></a>
+<a href="https://ibb.co/DGybYTJ"><img src="https://i.ibb.co/5Yy9kw0/Screenshot-1575743229.png" alt="Screenshot-1575743229" border="0"></a>
