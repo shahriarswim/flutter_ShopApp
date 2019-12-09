@@ -1,5 +1,14 @@
 # shop_app
 
+This app can add, delete, edit products per user. I also added animations in this app. This app is connected with firebase and saves data to the firebase. I added my API key with it for testing purposes. Please, do not misuse it.
+
+I am giving you 2 different accounts for testing:
+
+1. email: test0@test.com
+   pass: 123456
+2. email: test1@test.com
+   pass: 123456
+
 <a href="https://ibb.co/QvJCzfk"><img src="https://i.ibb.co/nMwnZbB/Screenshot-1575743123.png" alt="Screenshot-1575743123" border="0"></a>
 <a href="https://ibb.co/BGFNKsf"><img src="https://i.ibb.co/jzsRZ48/Screenshot-1575743160.png" alt="Screenshot-1575743160" border="0"></a>
 <a href="https://ibb.co/PcMTmjd"><img src="https://i.ibb.co/482smtH/Screenshot-1575743165.png" alt="Screenshot-1575743165" border="0"></a>
