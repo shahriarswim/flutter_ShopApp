@@ -1,6 +1,6 @@
 # shop_app
 
-This app can add, delete, edit products per user. I also added animations in this app. This app is connected with firebase and saves data to the firebase. I added my API key with it for testing purposes. Please, do not misuse it.
+This app can add, delete, edit and order products per user. I also added animations in this app. This app is connected with firebase and saves data to the firebase. I added my API key with it for testing purposes. Please, do not misuse it.
 
 I am giving you 2 different accounts for testing:
 
